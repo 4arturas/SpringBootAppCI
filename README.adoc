@@ -10,3 +10,5 @@ Remove image
 [source]
 docker image rm --force 7a6f09a29ede
 
+[source]
+docker run -p 8080:8080 arturix/springbootappci:latest
